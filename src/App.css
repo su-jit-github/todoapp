@@ -1,0 +1,29 @@
+#root {
+  margin-left: 450px;
+ width: 600px;
+  background-color: aquamarine;
+  display: flex;
+  justify-content: center;
+}
+
+.inptext{
+  padding: 10px;
+  width: 70%;
+  border-radius: 10px;
+  font-size: 20px;
+}
+
+
+
+.center-div{
+  
+  width: 400px;
+  padding: 20px;
+  margin-left:50px;
+}
+li{
+  margin-top: 30px;
+  font-size: 25px;
+  font-weight: bold;
+list-style: none;
+}
